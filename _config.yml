@@ -2,4 +2,4 @@ title: Young Physicists' Symposium
 description: "The Undergraduate Physics Symposium"
 show_downloads: false
 #baseurl: "/students/ugsymp"
-exclude: [README.md, preinstall.sh, Gem*, "*.log", LICENSE, "*.zip", "_programtable.md"]
+exclude: [README.md, preinstall.sh, Gem*, "*.log", LICENSE, "*.zip", "_programtable.md", "lbi.md"]
