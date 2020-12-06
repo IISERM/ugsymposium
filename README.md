@@ -1,4 +1,6 @@
-# Opportunity Cell Website
+# The Young Physicists' Symposium Website
+
+The first (and hopefully not last) Undergraduate Physics Symposium - Young Physicists' Symposium
 
 ## Important Info
 
