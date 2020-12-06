@@ -29,7 +29,7 @@ nav_index: 2
     program_md.write("# Abstracts\n\n")
     for topic in topics:
         program_md.write("## "+topic+"\n\n")
-        dir = join("abstracts", topics_dir_map[topic])
+        dir = join("_abstracts", topics_dir_map[topic])
         files = [f for f in listdir(dir) if isfile(join(dir, f))]
         for fname in files:
             name = splitext(fname)[0]
