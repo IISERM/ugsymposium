@@ -39,3 +39,16 @@ nav_index: 2
             )
             program_md.write("\n")
         program_md.write("---\n\n")
+
+
+with open("registered.md", "w") as registered_md:
+    registered_md.write("""---
+title: Participants
+nav_index: 3
+---
+""")
+    registered_md.write("# Registered Participants\n\n")
+    with open("_registerednames.md", "r") as f:
+        names = f.readlines()
+    for name in names:
+        registered_md.write("- "+name)

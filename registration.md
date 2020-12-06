@@ -1,6 +1,6 @@
 ---
 title: Registration
-nav_index: 3
+nav_index: 4
 ---
 
 # Registration Rules
