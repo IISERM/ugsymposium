@@ -4,6 +4,7 @@ nav_index: 2
 ---
 
 # Program
+
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ------ | ------- | --------- | -------- | ------ |
 | 9-10   |         |           |          |        |

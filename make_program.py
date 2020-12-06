@@ -20,7 +20,7 @@ nav_index: 2
 
 """)
     # Write Table
-    program_md.write("# Program\n")
+    program_md.write("# Program\n\n")
     with open("_programtable.md") as table:
         program_md.write(table.read())
     program_md.write("\n")
