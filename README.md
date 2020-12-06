@@ -22,7 +22,7 @@ At the start of `*.md` files, there will be a section delimited by `---`. These 
 
 ### baseurl variable in config.yaml
 
-Set the `baseurl` variable in `config.yaml` according to wherever you are going to host this site from relative to the root. For example, if the website is to be hosted on `https://web.iisermohali.ac.in/students/oppcell`, then set `baseurl: "/students/oppcell"`.
+Set the `baseurl` variable in `config.yaml` according to wherever you are going to host this site from relative to the root. For example, if the website is to be hosted on `https://web.iisermohali.ac.in/students/ugsymp`, then set `baseurl: "/students/ugsymp"`.
 If viewing on Github, comment out the line as `# baseurl: ...`
 
 ## Updating and Publishing
