@@ -1,0 +1,5 @@
+title: IISER Mohali Opportunity Cell
+description: "Opportunity Cell"
+show_downloads: false
+baseurl: "/students/oppcell"
+exclude: [README.md, preinstall.sh, Gem*, "*.log", LICENSE, "*.zip"]

@@ -1,0 +1,26 @@
+---
+---
+
+$section-headings-color: #e06d01 !default;
+
+@import 'jekyll-theme-cayman';
+
+@media screen and (max-width: 42em){
+    .page-header {
+        padding: 2rem 1rem;
+    }
+}
+.page-header {
+    padding: 1.5rem 2rem;
+    background-color: #0d2949;
+    background-image: linear-gradient(120deg, #031930, #056bdf);
+}
+
+img {
+    width: 20%;
+    min-width: 110px;
+}
+
+.fullwidth {
+    width: 100%
+}
