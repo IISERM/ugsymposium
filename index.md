@@ -9,7 +9,7 @@ nav_index: 1
 The first (and hopefully not last) Undergraduate Physics Symposium - Young Physicists' Symposium
 
 ## Advisory Committee
-![Dr. Kinjalk Lochan](https://web.iisermohali.ac.in/dept/physics/dps_files/Kinjalk_Lochan.jpg)
+![Dr. Kinjalk Lochan](https://web.iisermohali.ac.in/dept/physics/dps_files/Kinchalk_Lochan.jpg)
 
 [Dr. Kinjalk Lochan](https://web.iisermohali.ac.in/dept/physics/Kinjalk_Lochan.html)
 
