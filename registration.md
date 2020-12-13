@@ -5,27 +5,20 @@ nav_index: 5
 
 # Registration Rules
 
-1. some rule
-2. some rule
-3. some rule
-4. some rule
-5. some rule
-6. some rule
-7. some rule
-8. some rule
-9. some rule
-10. some rule
+## For Speakers
+1. Must be a student of IISER Mohali
+2. Must be enrolled in the Int.MS course only
+
+## For Attendees
+1. Must be super interested in one or more of the topics!
 
 # Deadlines
 
-| Event     | start date | last date |
-| --------- | ---------- | --------- |
-| Something | sometime   | sometime  |
-| Something | sometime   | sometime  |
-| Something | sometime   | sometime  |
+| Event                 | Start Date    | Last Date      |
+| --------------------- | ------------- | -------------- |
+| Speaker Registration  | 14th December | 16th December  |
+| Attendee Registration | 14th December | 26th December  |
 
 # Registration Links
 
-[Some Link](#)
-[Some Link](#)
-[Some Link](#)
+[Registration Link for Speakers and Attendees](https://forms.gle/fPPDaqNzx8vFwDot6)
