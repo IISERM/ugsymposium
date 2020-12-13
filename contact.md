@@ -11,12 +11,10 @@ nav_index: 6
 
 ## Organisers 
 
-- Gowri A
-- Aabhas Gulati
-- Dhruva Sambrani
+- Gowri A \[ms18204@\]
+- Aabhas Gulati \[ms18151@\]
+- [Dhruva Sambrani](https://dhruvasambrani.github.io/)
 
 ## Website Builder
 
-Dhruva Sambrani
-
-Personal Website: [https://dhruvasambrani.github.io/](https://dhruvasambrani.github.io/)
+[Dhruva Sambrani](https://dhruvasambrani.github.io/)
