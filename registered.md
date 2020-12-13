@@ -4,26 +4,4 @@ nav_index: 4
 ---
 # Registered Participants
 
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
-- name
+_Updated Every night_
